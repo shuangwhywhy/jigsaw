@@ -1,0 +1,9 @@
+{
+  "name": "jigsaw",
+  "version": "1.0.0",
+  "description": "Browser-based random landscape jigsaw game",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
